@@ -1,6 +1,6 @@
 {
   "name": "link-to-import-cli",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Change links of related with external stylesheet into @import CSS at-rule",
   "license": "MIT",
   "repository": "ragingwind/link-to-import-cli",
